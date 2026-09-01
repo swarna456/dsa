@@ -17,8 +17,9 @@ Each problem is organized in its own folder:
 ```text
 Swift-DSA/
 ├── Two-Sum/
-│   ├── Two-Sum.playground
-│   └── README.md
+│   └── Two-Sum.playground
+├── Valid-Anagram/
+│   └── Valid-Anagram.playground
 ├── ...
 └── README.md
 ```
@@ -28,6 +29,7 @@ Each problem includes the **solution, explanation, examples, and time & space co
 ## 📚 Problems
 
 * Two Sum — Array, Hash Map
+* Valid Anagram — String, Hash Map
 * More problems will be added regularly.
 
 ⭐ If you find this repository helpful, consider giving it a star.
